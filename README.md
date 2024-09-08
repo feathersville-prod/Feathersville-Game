@@ -1,5 +1,5 @@
 # Feathersville-Game
-Feathersville - A Life of Love and Loss is a heartfelt visual novel by Feathersville Productions, founded by Bee (formerly Nat), a passionate writer and game designer from Boise. Inspired by Our Life: Beginnings and Always, this game dives deep into the emotional journey of growing up, love, and loss, following characters through their intertwined lives across several years.
+Feathersville - A Life of Love and Loss is a heartfelt visual novel by Feathersville Productions, founded by Bee, a passionate writer and game designer from Boise. Inspired by Our Life: Beginnings and Always, this game dives deep into the emotional journey of growing up, love, and loss, following characters through their intertwined lives across several years.
 
 
 About the Game- 
