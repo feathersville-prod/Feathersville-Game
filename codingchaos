@@ -1,0 +1,37 @@
+label start:
+
+    # Narration at the very beginning
+    "You’ve always heard that life can change in an instant. You just never thought it would happen to you. Not like this."
+    "You were eight when everything changed. Living at a boarding school for advanced kids like you, life was supposed to be about learning, growing... being a kid. But then, one day, it wasn’t."
+    "It happened during a normal school day. The headmaster called you into their office. They sat you down, and with a heavy sigh, told you about the accident."
+    "Your parents were driving home, but... their car slipped off the road. They didn’t make it."
+    "You didn’t have a home to go back to anymore. And as winter break approached, while other kids packed up for the holidays, you were left with nowhere to go."
+
+    # MC's thoughts after the headmaster's office
+    "The world feels like it’s spinning, and everything around you seems so... distant."
+    "How can this be real? My parents are gone. I’m... alone."
+    "I don't know what to do. Everyone else is excited about going home, but I don’t have anywhere to go."
+
+    # Linden approaches the MC
+    scene school_hallway
+    with dissolve
+
+    "Linden, one of the other kids at the school, approaches you. He's usually full of energy and smiles, but today, his face looks serious."
+
+    linden "Hey, I... I heard what happened. I’m really sorry."
+
+    menu:
+        "How do you respond to Linden?"
+        "I don't want to talk right now.":
+            "You look away and mutter, 'I just want to be alone.'"
+            "Linden looks hurt but nods. 'Okay, if you need anything... I'm here.' He walks away, giving you space."
+
+        "I’m so sad. I don’t know what to do.":
+            "Tears start to well up in your eyes as you say, 'I don’t know what to do without them.'"
+            "Linden steps closer and puts a comforting hand on your shoulder. 'It’s okay to be sad. I’m here for you, alright?' His voice is soft and reassuring."
+
+        "Why did this have to happen?":
+            "You ask, 'Why did this have to happen? Why did they have to go?'"
+            "Linden seems unsure of what to say but tries to comfort you. 'I don’t know, but I promise you’re not alone. We’ll get through this.' His words are sincere but tinged with his own uncertainty."
+
+    return
